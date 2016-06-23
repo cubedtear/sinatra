@@ -1,0 +1,3 @@
+ext {
+    description = 'Server for the SiNaTra protocol.'
+}

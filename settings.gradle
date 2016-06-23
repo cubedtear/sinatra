@@ -1,0 +1,4 @@
+rootProject.name = 'sinatra'
+include 'sinatra-client'
+include 'sinatra-server'
+
